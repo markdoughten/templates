@@ -2,5 +2,5 @@
 # about
 # commands
 # examples
-# verison
+# version
 built using template version {{cookiecutter.__version}}.
